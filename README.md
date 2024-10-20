@@ -3,7 +3,10 @@ Step 1: Dowload Chrome Driver: https://googlechromelabs.github.io/chrome-for-tes
 
 Choose version Chrome Driver same Chrome
 
-Step 2: pip install Selenium /* in terminal */
+<pre><code class="language-javascript">
+pip install Selenium
+</code></pre>
+
 
 
 #Using for Automatic
